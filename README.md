@@ -23,7 +23,10 @@ You can make requests to the project endpoints using tools like Postman or Insom
     Set the request method (POST) and enter the URL http://localhost:8000/analyze
     Add request body.
     Send request to the server.
+![image](https://github.com/Barbie-44/psychic-spoon/assets/85578415/fddcdbad-e4ee-4bfd-a714-efc8f22ead0d)
+
 
 # Usage
 
 After setting up the environment and running the containers with docker-compose up, you can access the project at http://localhost:8000/analyze in your web browser.
+
